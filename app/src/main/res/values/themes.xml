@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AlcoolOuGasolina" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#2c3d91</item>
+        <item name="colorPrimaryVariant">#001261</item>
+        <item name="colorOnPrimary">#869ae3</item>
+    </style>
+</resources>
